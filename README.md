@@ -1,5 +1,5 @@
 
-![](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
+![](https://thumbs.dreamstime.com/b/horizontal-sky-blue-sky-cloud-white-background-beautiful-horizon-sky-landscape-background-horizontal-sky-blue-sky-228735039.jpg)
 
 ### Hello, I'm Prodeeps
 
