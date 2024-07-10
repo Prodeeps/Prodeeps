@@ -1,13 +1,9 @@
-# 💫 I'm Misbah:
+# 💫 I'm Prodeeps:
 I am a Computer Science Researcher and Software Engineer. Currently Learning Natural Language Processing.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/misbah-uddin-faroque) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prodeeps&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prodeeps&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prodeeps&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/misbah-uddin-faroque)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
