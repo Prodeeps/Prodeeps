@@ -18,5 +18,5 @@ I’m currently learning Explainable AI and planning to work for a software indu
 * **Software & Tech:** Git & GitHub, LATEX
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=misbahs100)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=prodeeps)  
 
