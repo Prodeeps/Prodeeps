@@ -5,7 +5,7 @@
 
 ```bash
 git config --global user.name "Prodeeps"
-```bash
+```
 
 I’m currently learning Explainable AI and planning to work for a software industry. Check out my [linkedin profile](https://linkedin.com/in/misbah-uddin-faroque).
 
